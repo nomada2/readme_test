@@ -27,7 +27,7 @@ Descarga el repositorio
 git@bitbucket.org:resuelve/latasarails.git
 ```
 En **Windows**
-> Se deben agregar las siguientes *variables de entorno:*
+> Agregar las siguientes *variables de entorno:*
 >   
 >  Nombre de la variable: **PATH** 
 >  
@@ -39,7 +39,7 @@ En **Windows**
 > 
 > Valor: **C:\RailsInstaller\cacert.pem** (1)
 > 
-> Se debe reemplazar el contenido del directorio *Tasa/latasarails/front/node_modules/ng2-charts* (2)
+> Reemplazar el contenido del directorio *Tasa/latasarails/front/node_modules/ng2-charts* (2).
 >
 > Si se encuentra el error "*Could not find a valid gem in any repository*" se debe ejecutar en consola:
 > 
