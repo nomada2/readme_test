@@ -49,23 +49,6 @@ LaTasa\latasarails
 $ bundle install
 ```
 
-Iniciar npm:
-```s
-LaTasa\latasarails\front
-$ npm start
-```
-
-Iniciar servidor de rails:
-```s
-LaTasa\latasarails
-$ rails s
-```
-
-Acceder al proyecto desde el navegador web:
-```s
-http://plocalhost:3000
-```
-
 
 En **Windows**
 > Agregar las siguientes *variables de entorno:*
