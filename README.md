@@ -27,7 +27,7 @@ git@bitbucket.org:resuelve/latasarails.git
 
 Crear rama y cambiarse a ella:
 ```s
-$ git checkout -b [myNewBranch]
+$ git checkout -b [myBranchName]
 ```
 
 Descargar rama *development:*
@@ -105,9 +105,9 @@ Módulo dirigido a las personas que buscan obtener un préstamo, en el cual se t
 
 
 * Crea una rama local y trabaja los cambios en ella  
-`$ git branch -b [myBranch_name]
+`$ git branch -b [myBranchName]
 `  
-`$ git checkout [myBranch_name]
+`$ git checkout [myBranchName]
 `
 
 
@@ -123,7 +123,7 @@ Módulo dirigido a las personas que buscan obtener un préstamo, en el cual se t
 `.`  
 `$ git add [myFilen]`  
 `$ git commit -m "commit message"`  
-`$ git push -u origin [myBranch_name]`
+`$ git push -u origin [myBranchName]`
 
 
 * *Pull request* desde la cuenta de github del proyecto
