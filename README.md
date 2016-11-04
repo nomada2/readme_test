@@ -116,12 +116,12 @@ Módulo dirigido a las personas que buscan obtener un préstamo, en el cual se t
 
 
 
-* Integra development a tu rama  
+* Integra development a tu rama local
 `$ git merge development
 `  
 
 
-* Trabaja los cambios y guárdalos en el repositorio  
+* Trabaja los cambios y guárdalos en el repositorio local  
 `$ git add [myFile1]`  
 `.`  
 `.`  
@@ -138,7 +138,9 @@ Módulo dirigido a las personas que buscan obtener un préstamo, en el cual se t
 `
 
 
-* *Pull request* desde la cuenta de github del proyecto
+* Guarda los cambios  
+`$ git push -origin development
+`  
 
 ---
 ## Equipo de desarrollo
