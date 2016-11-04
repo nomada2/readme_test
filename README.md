@@ -142,11 +142,11 @@ Módulo dirigido a las personas que buscan obtener un préstamo, en el cual se t
 
 ---
 ## Equipo de desarrollo
-Departamento de tecnologías de la información de [La Tasa](https://latasa.mx/ "La Tasa")
+Departamento de tecnologías de la información de [La Tasa](https://latasa.mx/ "La Tasa").
 
 ---
 ## Licencia
- [Licencia](https://opensource.org/licenses/MIT "Licencia") Ruby on Rails
+ [Licencia](https://opensource.org/licenses/MIT "Licencia") Ruby on Rails.
 
 ---
 ##### (1) Los archivos para reemplazar se encuentran en *Tasa/latasarails/front/node_modules/ng2-charts-graphs*.
