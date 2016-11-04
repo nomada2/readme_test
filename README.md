@@ -137,5 +137,5 @@ Departamento de tecnologías de la información de [La Tasa](https://latasa.mx/ 
  [Licencia](https://opensource.org/licenses/MIT "Licencia") Ruby on Rails.
 
 ---
-##### (1) Los archivos para reemplazar se encuentran en *Tasa/latasarails/front/node_modules/ng2-charts-graphs*.
+##### (1) Los archivos para reemplazar se encuentran en *Tasa/latasarails/front/ng2-charts*.
 ##### (2) El archivo se localiza en el directorio *\LaTasa\latasarails* del proyecto.
