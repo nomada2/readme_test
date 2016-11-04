@@ -68,8 +68,9 @@ En **Windows**
 > `$ -gem sources --add http://rubygems.org/
 `
 
-###### (1) Los archivos para reemplazar se encuentran en *Tasa/latasarails/front/ng2-charts*.
-###### (2) El archivo se localiza en el directorio *\LaTasa\latasarails* del proyecto.
+`*(1) Los archivos para reemplazar se encuentran en *Tasa/latasarails/front/ng2-charts*.`  
+`*(2) El archivo se localiza en el directorio *\LaTasa\latasarails* del proyecto.  `
+
 
 Inicia npm
 ```s
