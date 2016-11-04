@@ -14,11 +14,20 @@ Bajo el modelo de   [La Tasa](https://latasa.mx/ "La Tasa") contactamos a person
 ---
 ## Inicio rápido
 
-Instalar
-[Nodejs]( https://nodejs.org/en/ "Nodejs")
+Instalar [Nodejs]( https://nodejs.org/en/ "Nodejs"):
+```
+$sudo apt-get update
+$sudo apt-get install nodejs
+```
 
-Instalar
-[Ruby on Rails](http://rubyonrails.org/ "Ruby on Rails")
+Instalar [Ruby on Rails](http://rubyonrails.org/ "Ruby on Rails"):
+```
+$ sudo apt-get update
+$ sudo apt-get install curl
+$ \curl -L https://get.rvm.io | bash -s stable --ruby
+$ rvm get stable --autolibs=enable
+$ rvm install ruby
+```
 
 Descarga el repositorio:
 ```s
