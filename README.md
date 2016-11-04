@@ -61,7 +61,7 @@ En **Windows**
 >  
 > Nombre de la variable: **SSL_CERT_FILE**
 > 
-> Valor: **C:\RailsInstaller\cacert.pem** (1)
+> Valor: **C:\RailsInstaller\cacert.pem** (2)
 >
 > Si se encuentra el error "*Could not find a valid gem in any repository*" se debe ejecutar en consola:
 > 
