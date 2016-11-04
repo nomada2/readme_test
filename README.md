@@ -27,7 +27,7 @@ git@bitbucket.org:resuelve/latasarails.git
 
 Crear rama y cambiarse a ella:
 ```s
-$ git checkout -b [myBranchName]
+$ git checkout -b [development]
 ```
 
 Descargar rama *development:*
@@ -67,6 +67,9 @@ En **Windows**
 > 
 > `$ -gem sources --add http://rubygems.org/
 `
+
+###### (1) Los archivos para reemplazar se encuentran en *Tasa/latasarails/front/ng2-charts*.
+###### (2) El archivo se localiza en el directorio *\LaTasa\latasarails* del proyecto.
 
 Inicia npm
 ```s
@@ -135,7 +138,3 @@ Departamento de tecnologías de la información de [La Tasa](https://latasa.mx/ 
 ---
 ## Licencia
  [Licencia](https://opensource.org/licenses/MIT "Licencia") Ruby on Rails.
-
----
-##### (1) Los archivos para reemplazar se encuentran en *Tasa/latasarails/front/ng2-charts*.
-##### (2) El archivo se localiza en el directorio *\LaTasa\latasarails* del proyecto.
