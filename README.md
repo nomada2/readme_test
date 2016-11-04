@@ -6,10 +6,10 @@
 
 ---
 ## Descripción del proyecto
-Bajo el modelo de   [La Tasa](https://latasa.mx/ "La Tasa") contactamos a personas que buscan crédito (prestatarios) con Inversionistas que buscan invertir. Gracias a nuestro análisis de riesgo y herramientas de diversificación, La Tasa ofrece volatilidad baja; y debido a la eliminación de intermediarios con altos costos ofrecemos un rendimiento proyectado de hasta 15%.
->**Inversionistas**: Son aquellas personas físicas o morales que colocan o aportan recursos financieros en otra empresa para tener acceso sobre su información contable, percepción de intereses y distribución de utilidades o el control de esta.
+Bajo el modelo de   [La Tasa](https://latasa.mx/ "La Tasa") contactamos a personas que buscan crédito (acreditados) con Inversionistas que buscan invertir. Gracias a nuestro análisis de riesgo y herramientas de diversificación, La Tasa ofrece volatilidad baja; y debido a la eliminación de intermediarios con altos costos ofrecemos un rendimiento proyectado de hasta 15%.
+>**Inversionistas**: son las personas físicas o morales que se registran en la Tasa con el objetivo de generar un rendimiento a través de los intereses generados de los créditos otorgados a través de la Tasa.
 
->**Prestatarios**: Personas (físicas o morales) que reciben una cantidad de dinero, con la obligación de devolverlo junto con los intereses y en un determinado tiempo.
+>**Acreditados**: son las personas físicas que solicitan un crédito en la Tasa.
 
 ---
 ## Inicio rápido
@@ -36,21 +36,26 @@ $ git pull development
 ```
 
 Reemplazar el contenido del directorio *Tasa/latasarails/front/node_modules/ng2-charts* (1).
+
+Instalar npm:
 ```s
 LaTasa\latasarails\front
 $ npm install
 ```
 
+Instalar gemas del proyecto:
 ```s
 LaTasa\latasarails
 $ bundle install
 ```
 
+Iniciar npm:
 ```s
 LaTasa\latasarails\front
 $ npm start
 ```
 
+Iniciar servidor de rails:
 ```s
 LaTasa\latasarails
 $ rails s
