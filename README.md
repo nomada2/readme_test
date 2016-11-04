@@ -35,8 +35,6 @@ Descargar rama *development:*
 $ git pull origin development
 ```
 
-Reemplazar el contenido del directorio *Tasa/latasarails/front/node_modules/ng2-charts* (1).
-
 Instalar npm:
 ```s
 LaTasa\latasarails\front
@@ -61,7 +59,7 @@ En **Windows**
 >  
 > Nombre de la variable: **SSL_CERT_FILE**
 > 
-> Valor: **C:\RailsInstaller\cacert.pem** (2)
+> Valor: **C:\RailsInstaller\cacert.pem** (1)
 >
 > Si se encuentra el error "*Could not find a valid gem in any repository*" se debe ejecutar en consola:
 > 
@@ -69,8 +67,8 @@ En **Windows**
 `
 
 
-###### (1) Los archivos para reemplazar se encuentran en *Tasa/latasarails/front/ng2-charts.* 
-###### (2) El archivo se localiza en el directorio *\LaTasa\latasarails del proyecto.*
+Reemplazar el contenido del directorio *Tasa/latasarails/front/node_modules/ng2-charts* por los archivos contenidos en *Tasa/latasarails/front/ng2-charts*.
+###### (1) El archivo se localiza en el directorio *\LaTasa\latasarails del proyecto.*
 
 
 
@@ -105,31 +103,39 @@ Módulo dirigido a las personas que buscan obtener un préstamo, en el cual se t
 
 ---
 ## Como contribuir al proyecto
-* Descarga el repositorio  
-`git@bitbucket.org:resuelve/latasarails.git
-`
+* Descargar rama development  
+`$ git pull origin development  
+`  
 
 
-* Crea una rama local y trabaja los cambios en ella  
+* Crea una rama local   
 `$ git branch -b [myBranchName]
 `  
 `$ git checkout [myBranchName]
 `
 
 
-* Descargar rama development  
-`$ git pull origin development
+
+* Integra development a tu rama  
+`$ git merge development
 `  
 
 
-* Guarda tus cambios en el repositorio  
+* Trabaja los cambios y guárdalos en el repositorio  
 `$ git add [myFile1]`  
 `.`  
 `.`  
 `.`  
 `$ git add [myFilen]`  
-`$ git commit -m "commit message"`  
-`$ git push -u origin [myBranchName]`
+`$ git commit -m "commit message"` 
+
+
+
+* Integra tus cambios a development  
+`$ git checkout development
+`  
+`$ git merge myBranchName
+`
 
 
 * *Pull request* desde la cuenta de github del proyecto
