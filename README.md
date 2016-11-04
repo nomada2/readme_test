@@ -13,19 +13,55 @@ Bajo el modelo de   [La Tasa](https://latasa.mx/ "La Tasa") contactamos a person
 
 ---
 ## Inicio rápido
-```s
-npm install
-```
+
 Instalar
 [Nodejs]( https://nodejs.org/en/ "Nodejs")
 
 Instalar
 [Ruby on Rails](http://rubyonrails.org/ "Ruby on Rails")
 
-Descarga el repositorio
+Descarga el repositorio:
 ```s
 git@bitbucket.org:resuelve/latasarails.git
 ```
+
+Crear rama y cambiarse a ella:
+```s
+$ git checkout -b [myNewBranch]
+```
+
+Descargar rama *development:*
+```s
+$ git pull development
+```
+
+Reemplazar el contenido del directorio *Tasa/latasarails/front/node_modules/ng2-charts* (1).
+```s
+LaTasa\latasarails\front
+$ npm install
+```
+
+```s
+LaTasa\latasarails
+$ bundle install
+```
+
+```s
+LaTasa\latasarails\front
+$ npm start
+```
+
+```s
+LaTasa\latasarails
+$ rails s
+```
+
+Acceder al proyecto desde el navegador web:
+```s
+http://plocalhost:3000
+```
+
+
 En **Windows**
 > Agregar las siguientes *variables de entorno:*
 >   
@@ -38,8 +74,6 @@ En **Windows**
 > Nombre de la variable: **SSL_CERT_FILE**
 > 
 > Valor: **C:\RailsInstaller\cacert.pem** (1)
-> 
-> Reemplazar el contenido del directorio *Tasa/latasarails/front/node_modules/ng2-charts* (2).
 >
 > Si se encuentra el error "*Could not find a valid gem in any repository*" se debe ejecutar en consola:
 > 
@@ -110,5 +144,5 @@ Departamento de tecnologías de la información de [La Tasa](https://latasa.mx/ 
  [Licencia](https://opensource.org/licenses/MIT "Licencia") Ruby on Rails
 
 ---
-##### (1) El archivo se localiza en el directorio *\LaTasa\latasarails* del proyecto.
-##### (2) Los archivos para reemplazar se encuentran en *Tasa/latasarails/front/node_modules/ng2-charts-for-windows*.
+##### (1) Los archivos para reemplazar se encuentran en *Tasa/latasarails/front/node_modules/ng2-charts-graphs*.
+##### (2) El archivo se localiza en el directorio *\LaTasa\latasarails* del proyecto.
