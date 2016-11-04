@@ -32,7 +32,7 @@ $ git checkout -b [myNewBranch]
 
 Descargar rama *development:*
 ```s
-$ git pull development
+$ git pull origin development
 ```
 
 Reemplazar el contenido del directorio *Tasa/latasarails/front/node_modules/ng2-charts* (1).
@@ -126,6 +126,11 @@ Módulo dirigido a las personas que buscan obtener un préstamo, en el cual se t
 `  
 `$ git checkout [myBranch_name]
 `
+
+
+* Descargar rama development  
+`$ git pull origin development
+`  
 
 
 * Guarda tus cambios en el repositorio  
