@@ -78,7 +78,7 @@ En **Windows**
 
 Reemplazar el contenido del directorio *Tasa/latasarails/front/node_modules/ng2-charts* por los archivos contenidos en *Tasa/latasarails/front/ng2-charts*.
 
-![enter image description here](https://lh3.googleusercontent.com/-7vi5-oqAj-4/WBz8OdJC9-I/AAAAAAAABBw/PGxvqojEcFA1-SGbu4Pxn15kTvAIN89IgCLcB/s0/replace_files2.png "replace_files2.png")
+![enter image description here](https://lh3.googleusercontent.com/-CjEPIe6bE4s/WB0ChwDyEfI/AAAAAAAABCc/wFFnQ_FfLpk523cztz1h82Nylq-IGdWLACLcB/s0/final2.png "final2.png")
 
 ###### (1) El archivo se localiza en el directorio *\LaTasa\latasarails del proyecto.*
 
