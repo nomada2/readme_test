@@ -22,11 +22,7 @@ $sudo apt-get install nodejs
 
 Instalar [Ruby on Rails](http://rubyonrails.org/ "Ruby on Rails"):
 ```
-$ sudo apt-get update
-$ sudo apt-get install curl
-$ \curl -L https://get.rvm.io | bash -s stable --ruby
-$ rvm get stable --autolibs=enable
-$ rvm install ruby
+$ sudo apt-get install ruby-full
 ```
 
 Descarga el repositorio:
