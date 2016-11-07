@@ -42,13 +42,12 @@ git pull origin development
 
 Instalar npm:
 ```s
-cd LaTasa/latasarails/front
+cd front
 npm install
 ```
 
 Instalar gemas del proyecto:
 ```s
-cd LaTasa/latasarails
 bundle install
 ```
 
@@ -71,24 +70,16 @@ En **Windows**
 > `$ -gem sources --add http://rubygems.org/
 `
 
-
-Reemplazar el contenido del directorio *Tasa/latasarails/front/node_modules/ng2-charts* por los archivos contenidos en *Tasa/latasarails/front/ng2-charts*.
-
-![enter image description here](https://lh3.googleusercontent.com/-CjEPIe6bE4s/WB0ChwDyEfI/AAAAAAAABCc/wFFnQ_FfLpk523cztz1h82Nylq-IGdWLACLcB/s0/final2.png "final2.png")
-
+Código para reemplazar archivos *Tasa/latasarails/front/node_modules/ng2-charts* por los archivos contenidos en *Tasa/latasarails/front/ng2-charts*.
 ###### (1) El archivo se localiza en el directorio *\LaTasa\latasarails del proyecto.*
-
-
-
 Inicia npm
 ```s
-cd LaTasa/latasarails/front
+cd front
 npm start
 ```
 
 Inicia el servidor de rails
 ```s
-cd LaTasa/latasarails
 rails s
 ```
 
