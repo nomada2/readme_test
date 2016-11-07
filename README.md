@@ -2,14 +2,14 @@
 # [La Tasa](https://latasa.mx/ "La Tasa")
 ![](https://lh3.googleusercontent.com/-a8Z2RgiAREs/WCDalztrM4I/AAAAAAAABDE/WgCh1Fqyp8Q1S1pch21ClJ-O1SsCqWITgCLcB/s0/logo.jpg "logo.jpg")
 
- [La Tasa](https://latasa.mx/ "La Tasa") es un modelo de préstamo entre particulares (peer to peer), el cual consiste en invertir en préstamos directamente a personas seleccionadas por la Tasa por su buen perfil crediticio, evitando los altos costos de intermediación de los bancos y obteniendo las mejores tasas tanto para el inversionista como para quien solicita el crédito.
+ [La Tasa](https://latasa.mx/ "La Tasa") es un modelo de préstamo entre particulares (peer to peer), el cual consiste en invertir en préstamos directamente a personas seleccionadas por [La Tasa](https://latasa.mx/ "La Tasa") por su buen perfil crediticio, evitando los altos costos de intermediación de los bancos y obteniendo las mejores tasas tanto para el inversionista como para quien solicita el crédito.
 
 ---
 ## Descripción del proyecto
-Bajo el modelo de   [La Tasa](https://latasa.mx/ "La Tasa") contactamos a personas que buscan crédito (acreditados) con Inversionistas que buscan invertir. Gracias a nuestro análisis de riesgo y herramientas de diversificación, La Tasa ofrece volatilidad baja; y debido a la eliminación de intermediarios con altos costos ofrecemos un rendimiento proyectado de hasta 15%.
->**Inversionistas**: son las personas físicas o morales que se registran en la Tasa con el objetivo de generar un rendimiento a través de los intereses generados de los créditos otorgados a través de la Tasa.
+Bajo el modelo de   [La Tasa](https://latasa.mx/ "La Tasa") contactamos a personas que buscan crédito (acreditados) con Inversionistas que buscan invertir. Gracias a nuestro análisis de riesgo y herramientas de diversificación, [La Tasa](https://latasa.mx/ "La Tasa") ofrece volatilidad baja; y debido a la eliminación de intermediarios con altos costos ofrecemos un rendimiento proyectado de hasta 15%.
+>**Inversionistas**: son las personas físicas o morales que se registran en la Tasa con el objetivo de generar un rendimiento a través de los intereses generados de los créditos otorgados a través de [La Tasa](https://latasa.mx/ "La Tasa").
 
->**Acreditados**: son las personas físicas que solicitan un crédito en la Tasa.
+>**Acreditados**: son las personas físicas que solicitan un crédito en [La Tasa](https://latasa.mx/ "La Tasa").
 
 ---
 ## Inicio rápido
