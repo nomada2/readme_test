@@ -1,6 +1,6 @@
 
 # [La Tasa](https://latasa.mx/ "La Tasa")
-[![N|Solid](https://latasa.mx/images/logo.svg)](https://latasa.mx/images/logo.svg)
+![](https://lh3.googleusercontent.com/-a8Z2RgiAREs/WCDalztrM4I/AAAAAAAABDE/WgCh1Fqyp8Q1S1pch21ClJ-O1SsCqWITgCLcB/s0/logo.jpg "logo.jpg")
 
  [La Tasa](https://latasa.mx/ "La Tasa") es un modelo de préstamo entre particulares (peer to peer), el cual consiste en invertir en préstamos directamente a personas seleccionadas por la Tasa por su buen perfil crediticio, evitando los altos costos de intermediación de los bancos y obteniendo las mejores tasas tanto para el inversionista como para quien solicita el crédito.
 
@@ -16,40 +16,40 @@ Bajo el modelo de   [La Tasa](https://latasa.mx/ "La Tasa") contactamos a person
 
 Instalar [Nodejs]( https://nodejs.org/en/ "Nodejs"):
 ```
-$sudo apt-get update
-$sudo apt-get install nodejs
+sudo apt-get update  
+sudo apt-get install nodejs
 ```
 
 Instalar [Ruby on Rails](http://rubyonrails.org/ "Ruby on Rails"):
 ```
-$ sudo apt-get install ruby-full
+sudo apt-get install ruby-full
 ```
 
 Descarga el repositorio:
 ```s
-git@bitbucket.org:resuelve/latasarails.git
+git clone git@bitbucket.org:resuelve/latasarails.git
 ```
 
 Crear rama y cambiarse a ella:
 ```s
-$ git checkout -b [development]
+git checkout -b [development]
 ```
 
 Descargar rama *development:*
 ```s
-$ git pull origin development
+git pull origin development
 ```
 
 Instalar npm:
 ```s
-LaTasa\latasarails\front
-$ npm install
+cd LaTasa/latasarails/front
+npm install
 ```
 
 Instalar gemas del proyecto:
 ```s
-LaTasa\latasarails
-$ bundle install
+cd LaTasa/latasarails
+bundle install
 ```
 
 
@@ -82,19 +82,19 @@ Reemplazar el contenido del directorio *Tasa/latasarails/front/node_modules/ng2-
 
 Inicia npm
 ```s
-$ cd LaTasa\latasarails\front\
-$ npm start
+cd LaTasa/latasarails/front
+npm start
 ```
 
 Inicia el servidor de rails
 ```s
-$ cd LaTasa\latasarails
-$ rails s
+cd LaTasa/latasarails
+rails s
 ```
 
 Accede al proyecto desde el servidor local
 ```s
-http://localhost/3000
+http://localhost:3000
 ```
 ---
 
@@ -112,42 +112,42 @@ Módulo dirigido a las personas que buscan obtener un préstamo, en el cual se t
 ---
 ## Como contribuir al proyecto
 * Descargar rama development  
-`$ git pull origin development  
+`git pull origin development  
 `  
 
 
 * Crea una rama local   
-`$ git branch -b [myBranchName]
+`git branch -b [myBranchName]
 `  
-`$ git checkout [myBranchName]
+`git checkout [myBranchName]
 `
 
 
 
 * Integra development a tu rama local
-`$ git merge development
+`git merge development
 `  
 
 
 * Trabaja los cambios y guárdalos en el repositorio local  
-`$ git add [myFile1]`  
+`git add [myFile1]`  
 `.`  
 `.`  
 `.`  
-`$ git add [myFilen]`  
-`$ git commit -m "commit message"` 
+`git add [myFilen]`  
+`git commit -m "commit message"` 
 
 
 
 * Integra tus cambios a development  
-`$ git checkout development
+`git checkout development
 `  
-`$ git merge myBranchName
+`git merge myBranchName
 `
 
 
 * Guarda los cambios  
-`$ git push -origin development
+`git push -origin development
 `  
 
 ---
