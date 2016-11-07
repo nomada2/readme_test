@@ -99,9 +99,6 @@ http://localhost:3000
 ---
 
 ## Principales módulos
-### Login
-Módulo del sitio que permite autentificarse proporcionando su nombre de usuario o email y contraseña.
-![enter image description here](https://lh3.googleusercontent.com/-evyoh_NEmrg/WBu5ZugZqTI/AAAAAAAABAk/UtCTOu_KyBsS-LUk7q287dKyFGM4MbGyACLcB/s0/latasa_login.jpg "La Tasa | Login")
 ### Prestatario
 Módulo dirigido a las personas que buscan obtener un préstamo, en el cual se tiene un cotizador de crédito  y los formularios necesarios para dar de alta al usuario en el sistema.
 ![enter image description here](https://lh3.googleusercontent.com/-Ed_MaG4uu14/WBu5eoLc3dI/AAAAAAAABAs/lZeVfzof5tkCiVI7eghms0UEh-d_J6KtQCLcB/s0/latasa_prestatario.jpg "La Tasa | Prestatario")
