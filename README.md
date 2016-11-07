@@ -92,10 +92,8 @@ http://localhost:3000
 ## Principales módulos
 ### Prestatario
 Módulo dirigido a las personas que buscan obtener un préstamo, en el cual se tiene un cotizador de crédito  y los formularios necesarios para dar de alta al usuario en el sistema.
-![enter image description here](https://lh3.googleusercontent.com/-Ed_MaG4uu14/WBu5eoLc3dI/AAAAAAAABAs/lZeVfzof5tkCiVI7eghms0UEh-d_J6KtQCLcB/s0/latasa_prestatario.jpg "La Tasa | Prestatario")
 ### Inversionista  
 Éste módulo brinda información referente a las utilidades que podrán obtener las personas interesadas en invertir. En éste módulo se incluyen también los formularios necesarios para dar de alta a una persona como inversionista.
-![enter image description here](https://lh3.googleusercontent.com/-wi9E0lvlSlk/WBu52g54IWI/AAAAAAAABA0/U2xsi98_3OwoPM2BwnIUw76oRQzii2xOgCLcB/s0/latasa_inversionista.png "La Tasa | Inversionista")
 
 ---
 ## Como contribuir al proyecto
